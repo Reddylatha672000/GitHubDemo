@@ -6,4 +6,5 @@ print a-b;
 print (a*b);
 print(a%b);
 print(a,b);
-
+print (aaaaa);
+print(bbbbb);
